@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Queens letter from Holland: Directed to the Kings Most Excellent Maiesty. Brought to the Parliament, and delivered to the custodie of - Hen. Elsing Cler. Parl. D. Com. VVhereunto is added His Majesties late speech. And the copie of another letter sent from an English merchant in Holland to his brother in London concerning the manner of the Queens preparation to come for England.</title>
+            <author>Henrietta Maria, Queen, consort of Charles I, King of England, 1609-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86202</idno>
+            <idno type="STC">Wing H1459</idno>
+            <idno type="STC">Thomason E90_2</idno>
+            <idno type="STC">ESTC R18284</idno>
+            <idno type="EEBO-CITATION">99860380</idno>
+            <idno type="PROQUEST">99860380</idno>
+            <idno type="VID">112500</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112500)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E90[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Queens letter from Holland: Directed to the Kings Most Excellent Maiesty. Brought to the Parliament, and delivered to the custodie of - Hen. Elsing Cler. Parl. D. Com. VVhereunto is added His Majesties late speech. And the copie of another letter sent from an English merchant in Holland to his brother in London concerning the manner of the Queens preparation to come for England.</title>
+                  <author>Henrietta Maria, Queen, consort of Charles I, King of England, 1609-1669.</author>
+                  <author>English merchant in Holland.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for I. Vnderhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "feb. 18 1642.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112500:1" rendition="simple:additions"/>
+            <p>The Queens Letter From HOLLAND: DIRECTED TO THE KINGS MOST Excellent Maieſty.</p>
+            <p>Brought to the Parliament, and delivered to the cuſtodie of <hi>—Hen. Elſing Cler. Parl. D. Com.</hi>
+            </p>
+            <p>VVhereunto is added His Majeſties late Speech.</p>
+            <p>
+               <hi>AND</hi> The Copie of another Letter ſent from an Engliſh Mer<g ref="char:EOLhyphen"/>chant in Holland to his brother in London concerning the manner of the Queens Preparation to come for <hi>England.</hi>
+            </p>
+            <p>London printed for I. Vnderhill. <add>feb. <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 1647</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112500:2"/>
+            <pb n="1" facs="tcp:112500:2"/>
+            <head>The Queens Letter SENT TO The KINGS moſt excellent Majeſty from Holland.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Oſt Royall and Illuſtrious Monarch of great Brit<g ref="char:EOLhyphen"/>taine, my great, my good and worthy Liege, the moſt regall object of my loving heart, beſt affecti<g ref="char:EOLhyphen"/>ons and utmoſt endea<g ref="char:EOLhyphen"/>vours;</salute>
+            </opener>
+            <p>Be pleaſed to let this paper in all humility to ſalute your Princely hands, and to give your Princely cogitations ſome account of my endeavours, (as I am bound in du<g ref="char:EOLhyphen"/>ty, and as I am your ſpouſe and loyall wife) for your Majeſty in my abſence, my love having now no other wayes left of expreſſion, but by being your humble and faithfull Agent in accommodating and promoting your high affaires, wherein if my words, the pledges, and earneſt ſollicitors for the improve<g ref="char:EOLhyphen"/>ment
+<pb n="2" facs="tcp:112500:3"/>of your preſent fame and glory, may carry in them any ſtrength of perſwaſion, I would earneſtly incite your Princely thoughts to a remembrance of your Majeſties reſolution to carry forward your de<g ref="char:EOLhyphen"/>ſignes untill they grow to a famous maturity and ripeneſſe: maintain and continue your cauſe in the hardy proſecution of your affaires, without any mi<g ref="char:EOLhyphen"/>tigation, unleſſe an honourable ſatisfaction may make you disbandon and raiſe your former intentions: Now you haue a large field given you, wherein the il<g ref="char:EOLhyphen"/>luſtrious vertues inherent in your royall Perſon may be actually expreſſed, and give the whole Chriſtian world which are now ſpectators, and the eye of all Chriſtendome upon your Perſon, a clear approbation and teſtimony that your Majeſty merits that noble attribute annexed to your royall Title, <hi>Defender of the Faith:</hi> for by ſuch like actions as theſe, Princes live when they have paid their debt to nature, and wil be their own monument, which ſhalbe everlaſting, &amp; more durable then that of Marble. Be therefore con<g ref="char:EOLhyphen"/>ſtant in your Princely reſolutions, full of your own cauſe, and your Majeſty ſhall never want external ac<g ref="char:EOLhyphen"/>commodations and forraigne compliances, which by my earneſt endeavours and ſolicitations have of late been ſomwhat advanced, having obtained a liſt from our Brother the Prince of Orange, from whence as the ſpecial merit did diſtinguiſh them in worth, I have ſelected out of that number ſome choice, well-expe<g ref="char:EOLhyphen"/>rienced and ſerviceable ſouldiers, ſuch as ſhall be for<g ref="char:EOLhyphen"/>ward with couragious affections to maintaine your Princely affaires, and to amplifie your renown and glory in the in gagement of preſent actions: and out of theſe deſerving men, I have choſen ſtout Com<g ref="char:EOLhyphen"/>manders,
+<pb n="3" facs="tcp:112500:3"/>who will bee alwaies readie to doe Your Majeſtie ſervice in your Armie, and that I might fur<g ref="char:EOLhyphen"/>ther ſupply and ſerve your preſent occaſions, I have cauſed 400. barrels of Powder, and 10, pieces of ord<g ref="char:EOLhyphen"/>nance, to be conveighed to your Majeſty, beſides good ſtore of all other Ammunition, neceſſary upon all warlike occaſions, the compliance of our noble Brother the Prince of Orange is ſo ſetled in a firme complexion, ſimpathiſing, and affectionately a<g ref="char:EOLhyphen"/>greeing with the preſent condition of affaires, that he hath by many demonſtrations given teſtimony there<g ref="char:EOLhyphen"/>of, and by rayſing divers ſums of money for my uſe hath endeavoured the inclination of his particular af<g ref="char:EOLhyphen"/>fections, amongſt other accommodations leaſt your Majeſtie ſhould be any waye neceſſitated, I am to cer<g ref="char:EOLhyphen"/>tifie your Majeſty, that the Jewels of your Crown are for preſent receipts engaged to ſome certain Jewes of Amſterdam. Moreover I am to give your Highneſſe cauſe to eſteem the cheerefull undertakings and for<g ref="char:EOLhyphen"/>ward alacritie of our Brother the Prince of Orange, who will with all carefull vigilancie be readie to take all opportunities for your Majeſties advantage, and will with cleere intentions wherein you may repoſe truſt, bee ready to expreſſe himſelfe in all Chriſtian Offices: My acknowledgment of Prince Roberts va<g ref="char:EOLhyphen"/>liant courage and love expreſt in perſonall actions, &amp; thoſe adhering to your Majeſtie, being arrived to my knowledg by a letter lately ſent to Mr. Jermin, muſt needs deſerve my approbation and higheſt com<g ref="char:EOLhyphen"/>mendation, ſince his worth and noble actions are of ſuch tranſcendent expreſſion of Princely merit. A<g ref="char:EOLhyphen"/>mongſt the other endervours of my affectionate de<g ref="char:EOLhyphen"/>ſires,
+<pb n="4" facs="tcp:112500:4"/>the States have been carneſtly ſolicited for their ayde and aſſiſtance, which as yet cannot be induced upon them to grant, nor can J by any perſwaſion obtaine the effect of my urgent motion, though J hope my Letters ſent unto my Brother the French King, ſhall infuſe a Royall flame into his breaſt, and make him through accompable fullneſſe of your Highneſſe Cauſe, give ſuch aide unto your Majeſty, as may expreſſe him Royall in his thoughts, and tender of his Regall relation unto your Highneſſe; but if my Letter ſhould be ſo unhappie as not fully to inflame and inſtigate his mind to awake his power in your aide and defence, J cannot nor will not ſee your acti<g ref="char:EOLhyphen"/>ons brought on with ſo much expectation any way diſanimated, but ſince the Ages hopes muſt be the production and buſineſſe of Your weighty affaires, my perſonall ſolicitation ſhall at my going into <hi>France</hi> enduce and incline my moſt Chriſtian brother to ap<g ref="char:EOLhyphen"/>peare in pramoting and aſſiſting your Majeſties cauſe and actions, which are ſo full of honourable Juſtice: though abſent till we be reſident in your Princely heart, and believe my affections and endeavours are ever ready to ſerve your Majeſty.</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>I am and alwaies ſhall be your moſt dutifull wife and liege woman. <hi>HENERETTA, MARIA,</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:112500:4"/>
+            <head>The Subſtance of a Letter ſent from A Marchant in Holland, to his Brother in London.</head>
+            <p>OVr Queen is within nine Miles of the place where we now are, ſhe is again to take ſhhip<g ref="char:EOLhyphen"/>ping for <hi>England,</hi> wee ſaw twelve States men of Warre that are to carry her for <hi>England,</hi> and here at <hi>Rotterdam,</hi> where wee now are, foure Ships and Hoyes laden with Powder Ammunition, and Horſes, and there is ſo many more at <hi>Amſterdam,</hi> laden with Ammunition. all to go with the Queen to the King, this is of a truth I was an Eye witneſſe of it.</p>
+            <closer>
+               <signed>F. VV.</signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <head>His Majeſties Speech and Proteſtation on Sunday Feb. the 5, before the Lords and Vniverſity of <hi>Oxford,</hi> for the renouncing of Popery.</head>
+            <p>ON the fift of this preſent Moneth, his Maje<g ref="char:EOLhyphen"/>ſtie being reſident at <hi>Oxford,</hi> and attended with a brave Train of the Nobility, heard a Sermon that morning in the Cathedrall Church: which being ended, and the holy Sacrament of the <hi>Euchariſt,</hi> being that day celebrated, his Majeſtie be<g ref="char:EOLhyphen"/>holding a great multitude of his Nobilitie round a<g ref="char:EOLhyphen"/>bout him, ſpake thus unto them.</p>
+            <q>
+               <pb n="6" facs="tcp:112500:5"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="body_of_speech">
+                        <opener>
+                           <salute>My Lords;</salute>
+                        </opener>
+                        <p>Although J am not bound to give account to any of my thoughts but unto God alone, yet for your better ſatisfacti<g ref="char:EOLhyphen"/>on, and that my People might underſtand how much J have ſuffered by prejudicate Rumour and opinion; J this day proteſt be<g ref="char:EOLhyphen"/>fore the face of Almightie God, and before you all, that in my heart I am farre from Po<g ref="char:EOLhyphen"/>perie, and ſo by Gods grace will continue unto the end of my life; neither did my Queen ever to my knowledge ſo much as perſwade me once to alter my Religion.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
